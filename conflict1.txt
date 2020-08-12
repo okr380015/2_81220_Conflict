@@ -1,1 +1,1 @@
-Creating conflict - local change
+Creating conflict - keeping local change
